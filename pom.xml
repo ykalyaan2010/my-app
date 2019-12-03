@@ -13,11 +13,10 @@
 		<sonar.host.url>http://172.31.9.115:9000/</sonar.host.url>
 
 	</properties>
-	
-	
 	<dependencies>
+		
 
-	<dependencies>
+	       
 		<dependency>
 		    <groupId>org.apache.poi</groupId>
 		    <artifactId>poi</artifactId>
