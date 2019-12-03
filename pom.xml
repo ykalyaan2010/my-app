@@ -7,6 +7,13 @@
 	<version>0.0.7</version>
 	<name>my-app</name>
 	<url>http://maven.apache.org</url>
+	
+	<properties>
+		<docker.image.prefix>kammana</docker.image.prefix>
+		<sonar.host.url>http://172.31.9.115:9000/</sonar.host.url>
+
+	</properties>
+	<dependencies>
 
 	<dependencies>
 		<dependency>
